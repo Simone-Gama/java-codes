@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Leia dez números do teclado e conte quantos são pares.
 public class Main{
 	public static void main(String[] args) {
        ContarPares();
