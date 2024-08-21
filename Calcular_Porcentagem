@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
-public class Main
-{
+//Um programa que leia o preço de um produto e a porcentagem de desconto 
+//e calcule o preço final descontado. Usar função.
+
+public class Main{
 	public static void main(String[] args) {
 	   Scanner ler = new Scanner(System.in);
 	     
