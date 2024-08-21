@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Leia duas notas de aluno, calcule a média e informe se o aluno está Aprovado ou Não.
 public class Main{
 	public static void main(String[] args) {
 	   Scanner ler = new Scanner(System.in);
